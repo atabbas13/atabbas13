@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Abbas
 
-<!--
-**atabbas13/atabbas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cloud Data Engineer** with 2+ years of experience designing cost-effective cloud solutions, automating infrastructure, and improving system reliability across AWS environments.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- Build scalable ETL pipelines using Python, Airflow, and Spark
+- Design and maintain data lakes and warehouses (Redshift, S3, RDS)
+- Automate infrastructure using Terraform and CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+`Python` `SQL` `AWS` `Airflow` `Spark` `Kafka` `Docker` `Terraform` `dbt`
+
+### 📂 Projects
+Coming soon:
+- `etl-pipeline-airflow`
+- `data-warehouse-redshift`
+- `real-time-streaming-kafka`
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/abbas-mirza-a585931ab/) | [atabbas13@gmail.com](mailto:atabbas13@gmail.com)
