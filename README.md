@@ -8,7 +8,7 @@ I'm a **Cloud Data Engineer** with 2+ years of experience designing cost-effecti
 - Automate infrastructure using Terraform and CI/CD
 
 ### 🔧 Tech Stack
-`Python` `SQL` `AWS` `Airflow` `Spark` `Kafka` `Docker` `Terraform` `dbt`
+`Python` `SQL` `AWS` `Airflow` `Spark` `Terraform` `Git` `PostgreSQL` `Linux - Bash`
 
 ### 📂 Projects
 Coming soon:
